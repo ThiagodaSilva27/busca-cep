@@ -55,3 +55,6 @@ npm run serve
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Axios](https://www.npmjs.com/package/axios)
 - [Sass](https://sass-lang.com/)
+
+## API consumida:
+- [ViaCEP](https://viacep.com.br/)
