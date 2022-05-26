@@ -27,9 +27,6 @@
 - <img src="https://img.shields.io/static/v1?label=javascript&message=Programming%20language&color=yellow&style=for-the-badge&logo=JAVASCRIPT"/>
 - <img src="https://img.shields.io/static/v1?label=sass&message=Style Sheets&color=pink&style=for-the-badge&logo=SASS"/>
 
-### Deploy com Surge: 📘 
-[buscaCep]()
-
 ### Como rodar a aplicação:
 No terminal clone o projeto:
 ```
